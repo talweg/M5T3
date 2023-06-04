@@ -1,4 +1,5 @@
-
+# M5T3
+Plugin [kubectl ai](https://github.com/sozercan/kubectl-ai)
 
 | NAME | PROMPT | DESCRIPTION | EXAMPLE |
 |------|--------|-------------|---------|
